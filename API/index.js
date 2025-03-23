@@ -17,3 +17,6 @@ app.listen(process.env.PORT,console.log('running on server 6000') );
 //diff before commiting
 
 //head1
+
+console.log("head1")
+console.log("head1 2")
