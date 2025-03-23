@@ -14,3 +14,6 @@ app.listen(process.env.PORT,console.log('running on server 6000') );
 //staged
 //demo diff
 //demo diff 2
+//diff before commiting
+
+//head1
